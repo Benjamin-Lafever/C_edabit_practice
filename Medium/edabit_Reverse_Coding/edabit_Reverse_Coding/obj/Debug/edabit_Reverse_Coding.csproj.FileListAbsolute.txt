@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\bin\Debug\edabit_Reverse_Coding.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\bin\Debug\edabit_Reverse_Coding.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\bin\Debug\edabit_Reverse_Coding.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\obj\Debug\edabit_Reverse_Coding.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\obj\Debug\edabit_Reverse_Coding.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\obj\Debug\edabit_Reverse_Coding.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Reverse_Coding\edabit_Reverse_Coding\obj\Debug\edabit_Reverse_Coding.pdb

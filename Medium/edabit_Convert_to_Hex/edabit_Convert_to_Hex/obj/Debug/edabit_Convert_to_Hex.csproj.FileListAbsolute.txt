@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\bin\Debug\edabit_Convert_to_Hex.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\bin\Debug\edabit_Convert_to_Hex.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\bin\Debug\edabit_Convert_to_Hex.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\obj\Debug\edabit_Convert_to_Hex.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\obj\Debug\edabit_Convert_to_Hex.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\obj\Debug\edabit_Convert_to_Hex.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Convert_to_Hex\edabit_Convert_to_Hex\obj\Debug\edabit_Convert_to_Hex.pdb

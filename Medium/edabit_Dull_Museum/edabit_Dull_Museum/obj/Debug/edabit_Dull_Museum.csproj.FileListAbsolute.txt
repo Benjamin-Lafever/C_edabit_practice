@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\obj\Debug\edabit_Dull_Museum.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\obj\Debug\edabit_Dull_Museum.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\bin\Debug\edabit_Dull_Museum.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\bin\Debug\edabit_Dull_Museum.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\bin\Debug\edabit_Dull_Museum.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\obj\Debug\edabit_Dull_Museum.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Dull_Museum\edabit_Dull_Museum\obj\Debug\edabit_Dull_Museum.pdb

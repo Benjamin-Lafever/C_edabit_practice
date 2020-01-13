@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\bin\Debug\edabit_Remove_All_Special_Characters.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\bin\Debug\edabit_Remove_All_Special_Characters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\bin\Debug\edabit_Remove_All_Special_Characters.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\obj\Debug\edabit_Remove_All_Special_Characters.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\obj\Debug\edabit_Remove_All_Special_Characters.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\obj\Debug\edabit_Remove_All_Special_Characters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Remove_All_Special_Characters\edabit_Remove_All_Special_Characters\obj\Debug\edabit_Remove_All_Special_Characters.pdb

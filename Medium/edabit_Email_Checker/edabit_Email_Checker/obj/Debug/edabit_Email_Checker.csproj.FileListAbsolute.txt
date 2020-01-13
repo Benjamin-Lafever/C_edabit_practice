@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\bin\Debug\edabit_Email_Checker.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\bin\Debug\edabit_Email_Checker.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\bin\Debug\edabit_Email_Checker.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\obj\Debug\edabit_Email_Checker.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\obj\Debug\edabit_Email_Checker.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\obj\Debug\edabit_Email_Checker.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Medium\edabit_Email_Checker\edabit_Email_Checker\obj\Debug\edabit_Email_Checker.pdb
