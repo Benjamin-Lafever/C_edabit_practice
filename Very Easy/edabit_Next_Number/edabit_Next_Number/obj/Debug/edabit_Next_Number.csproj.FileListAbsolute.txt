@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\bin\Debug\edabit_Next_Number.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\bin\Debug\edabit_Next_Number.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\bin\Debug\edabit_Next_Number.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\obj\Debug\edabit_Next_Number.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\obj\Debug\edabit_Next_Number.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\obj\Debug\edabit_Next_Number.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Next_Number\edabit_Next_Number\obj\Debug\edabit_Next_Number.pdb

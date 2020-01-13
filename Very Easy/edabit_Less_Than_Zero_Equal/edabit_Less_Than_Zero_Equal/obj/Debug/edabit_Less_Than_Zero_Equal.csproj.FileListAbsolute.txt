@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\bin\Debug\edabit_Less_Than_Zero_Equal.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\bin\Debug\edabit_Less_Than_Zero_Equal.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\bin\Debug\edabit_Less_Than_Zero_Equal.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\obj\Debug\edabit_Less_Than_Zero_Equal.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\obj\Debug\edabit_Less_Than_Zero_Equal.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\obj\Debug\edabit_Less_Than_Zero_Equal.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Less_Than_Zero_Equal\edabit_Less_Than_Zero_Equal\obj\Debug\edabit_Less_Than_Zero_Equal.pdb
