@@ -1,0 +1,7 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\bin\Debug\edabit_Double_Letters.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\bin\Debug\edabit_Double_Letters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\bin\Debug\edabit_Double_Letters.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\obj\Debug\edabit_Double_Letters.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\obj\Debug\edabit_Double_Letters.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\obj\Debug\edabit_Double_Letters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Double_Letters\edabit_Double_Letters\obj\Debug\edabit_Double_Letters.pdb

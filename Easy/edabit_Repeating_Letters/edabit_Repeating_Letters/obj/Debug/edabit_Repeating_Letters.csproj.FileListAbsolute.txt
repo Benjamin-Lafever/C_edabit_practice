@@ -1,0 +1,14 @@
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\bin\Debug\edabit_Repeating_Letters.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\bin\Debug\edabit_Repeating_Letters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\bin\Debug\edabit_Repeating_Letters.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\bin\Debug\edabit_Repeating_Letters.exe.config
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\bin\Debug\edabit_Repeating_Letters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\bin\Debug\edabit_Repeating_Letters.pdb
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.exe
+C:\Users\Benjamin.Lafever\OneDrive - Ascendum US\Desktop\C# practice\edabit\Easy\edabit_Repeating_Letters\edabit_Repeating_Letters\obj\Debug\edabit_Repeating_Letters.pdb
